@@ -25,7 +25,7 @@ The goal of this assignment is to evaluate **GMM-driven oversampling techniques*
 
 ## 📂 Project Structure
 ```
-Assignment4_DAL_LAB/
+DAL_LAB_Assignment4/
 ├── Fraud_Detection_GMM.ipynb # Jupyter Notebook (analysis, models, visualizations)
 └── README.md        # Project documentation
 
@@ -62,5 +62,6 @@ Assignment4_DAL_LAB/
 -   🔄 **GMM + CBU** balanced performance: recall remained high (0.89) with better precision (0.13), improving F1-score (0.23).  
 -   🎯 **Trade-off:** Oversampling enhances fraud detection coverage but introduces false positives.  
 -   ✅ **Recommendation:** Use **GMM + CBU hybrid method** for practical fraud detection, as it balances sensitivity (recall) and specificity (precision).  
+
 
 
